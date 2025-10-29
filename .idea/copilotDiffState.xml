@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/vpjc/week7_8_panpanweatherapp/ExampleInstrumentedTest.kt">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/androidTest/java/com/vpjc/week7_8_panpanweatherapp/ExampleInstrumentedTest.kt" />
+              <option name="originalContent" value="package com.vpjc.week7_8_panpanweatherapp&#10;&#10;import androidx.test.platform.app.InstrumentationRegistry&#10;import androidx.test.ext.junit.runners.AndroidJUnit4&#10;&#10;import org.junit.Test&#10;import org.junit.runner.RunWith&#10;&#10;import org.junit.Assert.*&#10;&#10;/**&#10; * Instrumented test, which will execute on an Android device.&#10; *&#10; * See [testing documentation](http://d.android.com/tools/testing).&#10; */&#10;@RunWith(AndroidJUnit4::class)&#10;class ExampleInstrumentedTest {&#10;    @Test&#10;    fun useAppContext() {&#10;        // Context of the app under test.&#10;        val appContext = InstrumentationRegistry.getInstrumentation().targetContext&#10;        assertEquals(&quot;com.vpjc.week7_8_panpanweatherapp&quot;, appContext.packageName)&#10;    }&#10;}" />
+              <option name="updatedContent" value="package com.vpjc.week7_8_panpanweatherapp&#10;&#10;import androidx.test.platform.app.InstrumentationRegistry&#10;import androidx.test.ext.junit.runners.AndroidJUnit4&#10;&#10;import org.junit.Test&#10;import org.junit.runner.RunWith&#10;&#10;import org.junit.Assert.*&#10;&#10;/**&#10; * Instrumented test, which will execute on an Android device.&#10; *&#10; * See [testing documentation](http://d.android.com/tools/testing).&#10; */&#10;@RunWith(AndroidJUnit4::class)&#10;class ExampleInstrumentedTest {&#10;    @Test&#10;    fun useAppContext() {&#10;        // Context of the app under test.&#10;        val appContext = InstrumentationRegistry.getInstrumentation().targetContext&#10;        assertEquals(&quot;com.vpjc.week7_8_panpanweatherapp&quot;, appContext.packageName)&#10;    }&#10;}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/vpjc/week7_8_panpanweatherapp/ExampleUnitTest.kt">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/test/java/com/vpjc/week7_8_panpanweatherapp/ExampleUnitTest.kt" />
+              <option name="originalContent" value="package com.vpjc.week7_8_panpanweatherapp&#10;&#10;import org.junit.Test&#10;&#10;import org.junit.Assert.*&#10;&#10;/**&#10; * Example local unit test, which will execute on the development machine (host).&#10; *&#10; * See [testing documentation](http://d.android.com/tools/testing).&#10; */&#10;class ExampleUnitTest {&#10;    @Test&#10;    fun addition_isCorrect() {&#10;        assertEquals(4, 2 + 2)&#10;    }&#10;}" />
+              <option name="updatedContent" value="package com.vpjc.week7_8_panpanweatherapp&#10;&#10;import org.junit.Test&#10;&#10;import org.junit.Assert.*&#10;&#10;/**&#10; * Example local unit test, which will execute on the development machine (host).&#10; *&#10; * See [testing documentation](http://d.android.com/tools/testing).&#10; */&#10;class ExampleUnitTest {&#10;    @Test&#10;    fun addition_isCorrect() {&#10;        assertEquals(4, 2 + 2)&#10;    }&#10;}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
